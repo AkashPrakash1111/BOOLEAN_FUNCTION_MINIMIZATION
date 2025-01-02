@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/aaedb0c7-65d3-4e16-b80a-7a660670d576)# BOOLEAN_FUNCTION_MINIMIZATION
+# BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
 
@@ -17,8 +17,6 @@ Hardware – PCs, Cyclone II , USB flasher
 **Theory**
 
 **Logic Diagram**
-![Screenshot 2024-11-16 190105](https://github.com/user-attachments/assets/a1b4f98b-9def-4673-8587-280cf08c1895)
-
 
 **Procedure**
 
